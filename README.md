@@ -20,9 +20,11 @@ FRONTEND_ORIGIN=https://product-management-frontend.pages.dev
 **To test products and pagination:**  
 [https://product-managment-api.infinityfreeapp.com/?route=product&page=2&limit=8](https://product-managment-api.infinityfreeapp.com/?route=product&page=2&limit=8)   
   
-To test login and admin features locally: /?route=user
-credentials:
-{
-    "username": "admin",
-    "password": "@dmiN123"
+To test login and admin features locally:  
+/?route=user  
+
+credentials:  
+{  
+    "username": "admin",  
+    "password": "@dmiN123"  
 }  
